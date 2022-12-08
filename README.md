@@ -8,8 +8,8 @@
 <div align="center">
 
 
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/kra0s22/fuzzy-logic-water-quality.svg)](https://github.com/kra0s22/fuzzy-logic-water-quality/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kra0s22/fuzzy-logic-water-quality.svg)](https://github.com/kra0s22/fuzzy-logic-water-quality/pulls))
 
 </div>
 
