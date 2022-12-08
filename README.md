@@ -9,7 +9,7 @@
 
 
 [![GitHub Issues](https://img.shields.io/github/issues/kra0s22/fuzzy-logic-water-quality.svg)](https://github.com/kra0s22/fuzzy-logic-water-quality/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kra0s22/fuzzy-logic-water-quality.svg)](https://github.com/kra0s22/fuzzy-logic-water-quality/pulls))
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kra0s22/fuzzy-logic-water-quality.svg)](https://github.com/kra0s22/fuzzy-logic-water-quality/pulls)
 
 </div>
 
