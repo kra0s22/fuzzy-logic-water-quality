@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/FxL5qM0.jpg" alt="Bot logo"></a>
+ <img width=200px height=200px src="https://raw.githubusercontent.com/kra0s22/fuzzy-logic-water-quality/master/Images/fuzzy-logic.jpeg" alt="Bot logo"></a>
 </p>
 
 <h3 align="center">Water quality using fuzzy-logic</h3>
